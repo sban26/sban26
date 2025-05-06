@@ -1,4 +1,4 @@
-## <p align="center">Hi, I'm Sai Bannur! 👋</p>
+## <p align="center">Hi, I'm Sai👋</p>
 
 ### <p align="center">A fourth year Computer Science major at UVic</p>
 
