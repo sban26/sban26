@@ -11,9 +11,10 @@ Hello I'm a fourth-year University of Victoria (UVic) student majoring in comput
 - 📫 How to reach me: Give me a message on Linkedin, I'd be happy to connect and chat!
 
 <hr></hr>
-
+<!--
 ## <p align="center">🛠️ Languages-Frameworks-Tools 🛠️</p>
-
+-->
+<!--
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -58,7 +59,7 @@ Hello I'm a fourth-year University of Victoria (UVic) student majoring in comput
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
+-->
 
 
 <!--
