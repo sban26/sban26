@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello I'm a fourth-year University of Victoria (UVic) student majoring in computer science. I have a strong interest in software, coding, and investigating new technologies. A selection of my personal projects, tasks, and experiments that highlight my programming journey may be found on this GitHub. I like working with a range of frameworks and languages, and I'm constantly seeking new challenges and methods to advance my abilities.
+Hello, I'm a fourth-year University of Victoria (UVic) student majoring in computer science. I have a strong interest in software, coding, and investigating new technologies. A selection of my personal projects, tasks, and experiments that highlight my programming journey may be found on this GitHub. I like working with a range of frameworks and languages, and I'm constantly seeking new challenges and methods to advance my abilities.
 
 - 🌱 I’m currently learning how to build scalable, reliable, and maintainable applications
 - 🤔 Ask me about coding, technology trends, or tips for building better software!
