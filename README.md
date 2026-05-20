@@ -5,11 +5,11 @@
 ## About Me
 
 Hey there! I have a strong interest in software, coding, and investigating new technologies. A selection of my personal projects, tasks, and experiments that highlight my programming journey may be found on this GitHub. I like working with a range of frameworks and languages, and I'm constantly seeking new challenges and methods to advance my abilities.
-
+<!--
 - 🌱 I’m currently learning how to build scalable, reliable, and maintainable applications
 - 🤔 Ask me about coding, technology trends, or tips for building better software!
 - 📫 How to reach me: Give me a message on Linkedin, I'd be happy to connect and chat!
-
+-->
 <hr></hr>
 <!--
 ## <p align="center">🛠️ Languages-Frameworks-Tools 🛠️</p>
